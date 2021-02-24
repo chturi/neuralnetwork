@@ -1,0 +1,13 @@
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetworkProject.exe
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetworkProject.deps.json
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetworkProject.runtimeconfig.json
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetworkProject.runtimeconfig.dev.json
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetworkProject.dll
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetworkProject.pdb
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetworkProject.csprojAssemblyReference.cache
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetworkProject.AssemblyInfoInputs.cache
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetworkProject.AssemblyInfo.cs
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetworkProject.csproj.CoreCompileInputs.cache
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetworkProject.dll
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetworkProject.pdb
+C:\Users\chtur\Documents\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetworkProject.genruntimeconfig.cache

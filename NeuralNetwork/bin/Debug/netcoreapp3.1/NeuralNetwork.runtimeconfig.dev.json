@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chtur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chtur\\.nuget\\packages"
+    ]
+  }
+}
